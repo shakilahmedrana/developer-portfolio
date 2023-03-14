@@ -18,6 +18,18 @@
     border: 0;
 }
 
+.contact-btn {
+    color: #FD6E0A;
+    border-color: #FD6E0A;
+    border-radius: 5px;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    /* position: absolute; */
+    padding: 19px 24px;
+    height: 64px;
+}
+
 .header {
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url(../images/developer.png);
@@ -55,7 +67,8 @@ nav li {
 .banner {
     display: flex;
     align-items: center;
-    margin: 0 200px;
+    /* margin: 0 200px; */
+    margin: 0 50px 0 200px;
     margin-bottom: 130px;
 }
 
